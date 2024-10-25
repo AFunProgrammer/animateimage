@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Add.png</file>
+        <file>Minus.png</file>
+        <file>LeftArrowSmall.png</file>
+        <file>RightArrowSmall.png</file>
+        <file>LeftArrow.png</file>
+        <file>RightArrow.png</file>
+        <file>trapezoidvertical.png</file>
+        <file>trapezoidhorizontal.png</file>
+        <file>noaction_o.png</file>
+        <file>pan_o.png</file>
+        <file>rotate_o.png</file>
+        <file>scale_o.png</file>
+        <file>save_o.png</file>
+        <file>load_o.png</file>
+        <file>export_o.png</file>
+        <file>orientation_10x16_o.png</file>
+        <file>orientation_16x10_o.png</file>
+    </qresource>
+</RCC>

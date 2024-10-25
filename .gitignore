@@ -1,0 +1,28 @@
+# Build and deployment files
+dist/
+build/
+deploy/
+*.pro.user.*
+*.pro.user
+*.user
+
+# IDE-specific files
+.idea/
+*.sln
+*.suo
+*.vcxproj
+*.vcxproj.filters
+
+# Generated files
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# Temporary files
+*.tmp
+*~
+
+# Binary Files
+*.dll
+*.exe
+
